@@ -4,7 +4,7 @@
 
 This is the layout of a music player. The UI is made using a technique called Neumorphism. 
 
-![Neumorphic Music Player Screenshot 1](./screen1.png)
+<img src="./screen1.png" alt="Neumorphic Music Player Screenshot 1" width="200"/>
 
 ### Built with
 
